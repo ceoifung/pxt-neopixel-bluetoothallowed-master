@@ -1,5 +1,5 @@
 {
-    "name": "neopixel-bluetoothallowed",
+    "name": "neopixel",
     "version": "0.0.2",
     "description": "hacked up neopixel driver to allow bluetooth, corruption be damned",
     "license": "MIT",
@@ -10,7 +10,7 @@
         "README.md",
         "neopixel.ts",
         "sendbuffer.asm",
-        "_locales/zh/neopixel-bluetoothallowed-strings.json"
+        "_locales/zh/neopixel-strings.json"
     ],
     "testFiles": [
         "neotest.ts"
