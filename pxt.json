@@ -1,8 +1,11 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "name": "neopixel-bluetoothallowed",
     "version": "1.0.2",
 =======
+=======
+>>>>>>> parent of b7e9057... Update pxt.json
     "name": "neopixel",
     "version": "0.0.2",
 >>>>>>> parent of b7e9057... Update pxt.json
@@ -15,8 +18,13 @@
         "README.md",
         "neopixel.ts",
 <<<<<<< HEAD
+<<<<<<< HEAD
         "_locales/zh/neopixel-bluetoothallowed-strings.json",
         "sendbuffer.asm"
+=======
+        "sendbuffer.asm",
+        "_locales/zh/neopixel-strings.json"
+>>>>>>> parent of b7e9057... Update pxt.json
 =======
         "sendbuffer.asm",
         "_locales/zh/neopixel-strings.json"
